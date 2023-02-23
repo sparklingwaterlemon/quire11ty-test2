@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: Preface
 subtitle: A Tale of Two Photographers
-layout: splash
+layout: page
 order: 10
 image: figures/lange-house.jpg
 ---

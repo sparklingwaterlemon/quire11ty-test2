@@ -19,3 +19,7 @@ Generates HTML output for generation of PDF books using [`Paged.js`](https://pag
 #### EPUB Output
 
 Generates HTML output for generation of EPUB book using [`EPUB.js`](http://futurepress.org)
+
+.
+.
+.
